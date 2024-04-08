@@ -1,0 +1,3 @@
+# ignore target folders
+/target/*
+/project/target/*
