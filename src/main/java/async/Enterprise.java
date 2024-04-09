@@ -11,8 +11,11 @@ class Enterprise {
     this.ceo_id = ceo_id;
   }
 
-
   public String toString() {
     return "Enterprise_" + name;
+  }
+
+  public String getCeoId() {
+    return ceo_id;
   }
 }
